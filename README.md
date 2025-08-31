@@ -33,7 +33,7 @@ The system consists of four specialized agents working in sequence:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rankyx-procurement-system.git
+   git clone https://github.com/AhmedEssam29/AI_Agents_CREWAI.git
    cd rankyx-procurement-system
    ```
 
