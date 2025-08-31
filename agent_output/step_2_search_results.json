@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "title": "Philips EP2220 Coffee Machine",
+      "url": "https://www.amazon.eg/Philips-EP2220-Coffee-Machine/dp/B07D74RCDT",
+      "content": "Philips EP2220 Coffee Machine with 1.2 L capacity, automatic shut-off, and multiple brewing options.",
+      "score": 0.95,
+      "search_query": "Philips coffee machine site:www.amazon.eg"
+    },
+    {
+      "title": "Drip Coffee Maker for Office",
+      "url": "https://www.jumia.com.eg/drip-coffee-maker-for-office-123456/",
+      "content": "Drip coffee maker with 12-cup capacity, programmable timer, and stainless steel design.",
+      "score": 0.92,
+      "search_query": "Drip coffee maker for office site:www.jumia.com.eg"
+    },
+    {
+      "title": "Espresso Machine for Office Use",
+      "url": "https://www.noon.com/egypt-en/espresso-machine-for-office-789012/",
+      "content": "Espresso machine with 15-bar pump, automatic temperature control, and milk frothing capability.",
+      "score": 0.9,
+      "search_query": "Espresso machine for office use site:www.noon.com/egypt-en"
+    },
+    {
+      "title": "Bosch Coffee Machine",
+      "url": "https://www.amazon.eg/Bosch-Coffee-Machine/dp/B08L5XTXQZ",
+      "content": "Bosch coffee machine with 1.5 L water tank, automatic shut-off, and multiple brewing options.",
+      "score": 0.88,
+      "search_query": "Bosch coffee machine site:www.amazon.eg"
+    },
+    {
+      "title": "Automatic Coffee Machine",
+      "url": "https://www.jumia.com.eg/automatic-coffee-machine-345678/",
+      "content": "Automatic coffee machine with 10-cup capacity, programmable timer, and stainless steel design.",
+      "score": 0.85,
+      "search_query": "Automatic coffee machine site:www.jumia.com.eg"
+    },
+    {
+      "title": "Capsule Coffee Machine",
+      "url": "https://www.noon.com/egypt-en/capsule-coffee-machine-567890/",
+      "content": "Capsule coffee machine with 1.2 L water tank, automatic capsule ejection, and multiple brewing options.",
+      "score": 0.82,
+      "search_query": "Capsule coffee machine site:www.noon.com/egypt-en"
+    },
+    {
+      "title": "Siemens Coffee Machine",
+      "url": "https://www.amazon.eg/Siemens-Coffee-Machine/dp/B09LXQQL9X",
+      "content": "Siemens coffee machine with 1.7 L water tank, automatic shut-off, and multiple brewing options.",
+      "score": 0.8,
+      "search_query": "Siemens coffee machine site:www.amazon.eg"
+    },
+    {
+      "title": "French Press Coffee Maker",
+      "url": "https://www.jumia.com.eg/french-press-coffee-maker-234567/",
+      "content": "French press coffee maker with 1 L capacity, heat-resistant glass, and stainless steel frame.",
+      "score": 0.78,
+      "search_query": "French press coffee maker site:www.jumia.com.eg"
+    },
+    {
+      "title": "Coffee Maker with Grinder",
+      "url": "https://www.noon.com/egypt-en/coffee-maker-with-grinder-890123/",
+      "content": "Coffee maker with grinder, 1.2 L water tank, and multiple brewing options.",
+      "score": 0.75,
+      "search_query": "Coffee maker with grinder site:www.noon.com/egypt-en"
+    },
+    {
+      "title": "Commercial Coffee Machine",
+      "url": "https://www.amazon.eg/Commercial-Coffee-Machine/dp/B08R1R7RQX",
+      "content": "Commercial coffee machine with 3 L water tank, automatic shut-off, and multiple brewing options.",
+      "score": 0.7,
+      "search_query": "Commercial coffee machine site:www.amazon.eg"
+    }
+  ]
+}

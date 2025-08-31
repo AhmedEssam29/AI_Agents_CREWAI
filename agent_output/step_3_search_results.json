@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.amazon.eg/Philips-EP2220-Coffee-Machine/dp/B07D74RCDT",
+      "product_title": "Philips EP2220 Coffee Machine",
+      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/41xg%2BC%2BpSBL._AC_.jpg",
+      "product_url": "https://www.amazon.eg/Philips-EP2220-Coffee-Machine/dp/B07D74RCDT",
+      "product_current_price": 4500.0,
+      "product_original_price": 5000.0,
+      "product_discount_percentage": 10.0,
+      "product_specs": [
+        {
+          "specification_name": "Capacity",
+          "specification_value": "1.2 L"
+        },
+        {
+          "specification_name": "Features",
+          "specification_value": "Automatic Shut-Off, Multiple Brewing Options"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "High quality and durable",
+        "Multiple brewing options for flexibility",
+        "Good customer reviews"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/espresso-machine-1-8-l-1500",
+      "product_title": "Espresso Machine 1.8 L 1500",
+      "product_image_url": "https://www.noon.com/egypt-en/15-bar-fully-automatic-espresso-machine-1-8-l-1500",
+      "product_url": "https://www.noon.com/egypt-en/15-bar-fully-automatic-espresso-machine-1-8-l-1500",
+      "product_current_price": 3500.0,
+      "product_original_price": 4000.0,
+      "product_discount_percentage": 12.5,
+      "product_specs": [
+        {
+          "specification_name": "Pressure",
+          "specification_value": "15 Bar"
+        },
+        {
+          "specification_name": "Capacity",
+          "specification_value": "1.8 L"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Good value for money",
+        "High pressure for better espresso",
+        "Easy to clean"
+      ]
+    }
+  ]
+}
